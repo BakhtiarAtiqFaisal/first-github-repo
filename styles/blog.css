@@ -1,3 +1,6 @@
 div{
     background-color: tomato;
+    border: 20px;
+    padding: 5px;
+    margin-top: 12px;
 }
